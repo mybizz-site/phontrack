@@ -20,10 +20,10 @@ I develop this app during my free time. You can make a donation to me on Paypal.
 # Screenshots
 
 ## Two devices displayed
-![pt1](/uploads/58881f5d155a91aec3c0db9f051126e0/pt1.jpeg)
+![ph1](/uploads/17ba0aa1f01eb5f09010fb87048d0a6a/ph1.jpeg)
 
 ## Editing a point
-![pt2](/uploads/9ee540e94ca32fce8747f411bbc9149b/pt2.jpeg)
+![ph2](/uploads/55c1a459b1155cf75aba1252388c085a/ph2.jpeg)
 
 ## Public page displaying other devices and tracking browser's device
-![pt3](/uploads/97b3e41c3fa49ddebee52c3d9de540c7/pt3.jpeg)
+![ph3](/uploads/2c88199e6ce40fcaafbb7c112f9e42f9/ph3.jpeg)
