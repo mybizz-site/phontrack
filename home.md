@@ -9,6 +9,7 @@
 * [phonetrack-0.0.1.tar.gz](/uploads/cf086aad8a07f8272eefcff04a4a17fe/phonetrack-0.0.1.tar.gz)
 * [phonetrack-0.0.3.tar.gz](/uploads/edd3d29d0022035177741e165086bf6b/phonetrack-0.0.3.tar.gz)
 * [phonetrack-0.0.5.tar.gz](/uploads/b83ba61b13e7e1458a5122a9e34332b2/phonetrack-0.0.5.tar.gz)
+* [phonetrack-0.0.8.tar.gz](/uploads/a6f207fb71292599cbb93b9492612a47/phonetrack-0.0.8.tar.gz)
 
 * [phonetrack-nightly.tar.gz](/uploads/be3b6f376107588527d308f4f69b1765/phonetrack-nightly.tar.gz)
 
