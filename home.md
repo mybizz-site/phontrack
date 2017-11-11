@@ -15,7 +15,11 @@
 
 # Donation
 
-I develop this app during my free time. You can make a donation to me on Paypal. [Click HERE to make a donation](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=66PALMY8SF5JE) (you don't need a paypal account)
+I develop this app during my free time.
+
+* [Donate on Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=66PALMY8SF5JE) (you don't need a paypal account)
+* Bitcoin : 1FfDVdPK8mZHB84EdN67iVgKCmRa3SwF6r
+* Monero : 43moCXnskkeJNf1MezHnjzARNpk2BRvhuRA9vzyuVAkTYH2AE4L4EwJjC3HbDxv9uRBdsYdBPF1jePLeV8TpdnU7F9FN2Ao
 
 # Screenshots
 
