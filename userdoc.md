@@ -1,13 +1,8 @@
 # Logging methods
 
+Does anyone know good and free ([as in "free speech"](https://www.gnu.org/philosophy/free-sw.en.html)) app which can log position to custom URL in background ? Create an issue if you do !With a web browser, on the session public logging page, check "Log my position in this session" (works better on Android than on IOS...)
+
 * With a web browser, on the session public logging page, check "Log my position in this session" (works better on Android than on IOS...)
-* [OsmAnd gpx recording plugin](https://osmand.net/features?id=trip-recording-plugin#Online_tracking) (Android) is able to log to a custom URL with GET method. IOS version does not include recording plugin. Tested and approved.
-* [GpsLogger](http://code.mendhak.com/gpslogger/#features) (Android) Very good ! Setup in : Options -> Logging details -> Log to custom URL
-* [Owntracks](http://owntracks.org/) (IOS/Android) Both version work. This app does not work without google services installed on Android. Quite funny to provide an app for those who want to keep control of their tracking information and force them to be tracked by google services...
-* [µlogger](https://f-droid.org/packages/net.fabiszewski.ulogger/) (Android) The best IMHO. Very light. Bufferize positions when device looses connectivity and sends everything when back online.
-* [Traccar](https://www.traccar.org/client/) (IOS/Android) Quite good, not very verbose. Also able to bufferize.
-* [OpenGTS](http://opengts.org/) which is more a standard than an app. I successfully used [GpsLogger](http://code.mendhak.com/gpslogger/#features) (OpenGTS mode) and [CelltrackGTS/Free](http://www.geotelematic.com/CelltracGTS/Free.html) (a few bugs with this one).
-* Does anyone know good and free ([as in "free speech"](https://www.gnu.org/philosophy/free-sw.en.html)) app which can log position to custom URL in background ? Create an issue if you do !With a web browser, on the session public logging page, check "Log my position in this session" (works better on Android than on IOS...)
 * [OsmAnd gpx recording plugin](https://osmand.net/features?id=trip-recording-plugin#Online_tracking) (Android) is able to log to a custom URL with GET method. IOS version does not include recording plugin. Tested and approved.
 * [GpsLogger](http://code.mendhak.com/gpslogger/#features) (Android) Very good ! Setup in : Options -> Logging details -> Log to custom URL
 * [Owntracks](http://owntracks.org/) (IOS/Android) Both version work. This app does not work without google services installed on Android. Quite funny to provide an app for those who want to keep control of their tracking information and force them to be tracked by google services...
