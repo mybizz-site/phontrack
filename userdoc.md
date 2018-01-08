@@ -32,9 +32,9 @@ Bob : 8691aa01a76bb2d8b0db2d80e9b1ec8d
 ```
 
 Here is the URL i can send to Alice for her to use it with Ulogger :
-```https://mynextcloud.host.com/apps/phonetrack/log/ulogger/48947ce5d37d947f38724fb8b20d43d/ac98bb9b15afc3d028d845b7fce4ab2c```
-and the one for Bob : ```https://mynextcloud.host.com/apps/phonetrack/log/ulogger/48947ce5d37d947f38724fb8b20d43d/8691aa01a76bb2d8b0db2d80e9b1ec8d```.
+`https://mynextcloud.host.com/apps/phonetrack/log/ulogger/48947ce5d37d947f38724fb8b20d43d/ac98bb9b15afc3d028d845b7fce4ab2c`
+and the one for Bob : `https://mynextcloud.host.com/apps/phonetrack/log/ulogger/48947ce5d37d947f38724fb8b20d43d/8691aa01a76bb2d8b0db2d80e9b1ec8d`.
 
-Let's be clear, this URL will NOT WORK : ```https://mynextcloud.host.com/apps/phonetrack/log/ulogger/48947ce5d37d947f38724fb8b20d43d/Bob``` because the name "Bob" is reserved.
+Let's be clear, this URL will NOT WORK : `https://mynextcloud.host.com/apps/phonetrack/log/ulogger/48947ce5d37d947f38724fb8b20d43d/Bob` because the name "Bob" is reserved.
 
 This way you don't make it impossible for Alice or Bob to log as any other name but at least you know Bob can't log as Alice and Alice can't log as Bob.
