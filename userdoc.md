@@ -41,6 +41,8 @@ and the one for Bob :
 
 Let's be clear, this URL will NOT WORK :
 
-`https://mynextcloud.host.com/apps/phonetrack/log/ulogger/48947ce5d37d947f38724fb8b20d43d/Bob` because the name "Bob" is reserved.
+`https://mynextcloud.host.com/apps/phonetrack/log/ulogger/48947ce5d37d947f38724fb8b20d43d/Bob` 
+
+because the name "Bob" is reserved.
 
 This way you don't make it impossible for Alice or Bob to log as any other name but at least you know Bob can't log as Alice and Alice can't log as Bob.
