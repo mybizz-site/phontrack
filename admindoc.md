@@ -1,3 +1,9 @@
+# WARNING
+
+PhoneTrack **does not work if it's restricted to some groups**. The reason is it's impossible to access public pages of an app (log URLs in our case) because Nextcloud considers the app is disabled when it is accessed without being logged in.
+
+# Install instructions
+
 Put phonetrack directory in Owncloud/Nextcloud apps directory to install.
 There are several ways to do that :
 
