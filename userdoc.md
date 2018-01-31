@@ -12,6 +12,22 @@ Does anyone know good and free ([as in "free speech"](https://www.gnu.org/philos
 
 \* : When device looses connectivity, the app stores positions and sends everything when back online. 
 
+# Logging apps comparison by @slaver
+
+* Android 7.1 (stock samsung firmware):
+    1. All apps don't work without Location services enabled.
+    2. Only Traccar can operate with Location services via WiFi/Bluetooth/Network.
+
+* Android 7.1 (LineageOS):
+    1. All apps don't work without Location services enabled.
+    2. All apps don't work with Location services via WiFi/Bluetooth/Network.
+    3. Traccar v.5.8/5.7/5.6 doesn't work at all (even no GPS requests from that app).
+    4. Traccar v.5.5 is OK.
+    5. GPSlogger is a "champion" of battery usage, Traccar and uLogger eat far less.
+    6. Traccar shows terrible track accuracy.
+    7. GPSlogger has the best accuracy.
+    ![screenshot](/uploads/8d8d8718e5913eae8d7c241122d0b795/screenshot.jpeg)
+
 # Device name reservation
 
 ## What is it ?
