@@ -1,5 +1,7 @@
 # PhoneTrack documentation
 
+[[_TOC_]]
+
 * [User documentation](userdoc) (brief user manual)
 * [Admin documentation](admindoc) (installation instructions)
 * [Developer documentation](devdoc) (overall app functioning, javascript interface description)
