@@ -1,6 +1,6 @@
-# PhoneTrack documentation
-
 [[_TOC_]]
+
+# PhoneTrack documentation
 
 * [User documentation](userdoc) (brief user manual)
 * [Admin documentation](admindoc) (installation instructions)
