@@ -4,7 +4,7 @@
 
 PhoneTrack **does not work if it's restricted to some groups**. The reason is it's impossible to access public pages of an app (log URLs in our case) because Nextcloud considers the app is disabled when it is accessed without being logged in.
 
-It has been solved in [this pull-request](https://github.com/nextcloud/server/pull/8593). Be patient, it will be included in Nextcloud 14.
+**It has been solved** in [this pull-request](https://github.com/nextcloud/server/pull/8593). Be patient, it will be included in Nextcloud 14.
 
 # Install instructions
 
