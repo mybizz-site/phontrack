@@ -1,10 +1,10 @@
 [[_TOC_]]
 
-# WARNING
+# Issue with PhoneTrack restricted to some groups in Nextcloud
 
-PhoneTrack **does not work if it's restricted to some groups**. The reason is it's impossible to access public pages of an app (log URLs in our case) because Nextcloud considers the app is disabled when it is accessed without being logged in.
+PhoneTrack **did** not work if it's restricted to some groups. The reason is it's impossible to access public pages of an app (log URLs in our case) because Nextcloud considers the app is disabled when it is accessed without being logged in.
 
-**It has been solved** in [this pull-request](https://github.com/nextcloud/server/pull/8593). Be patient, it will be included in Nextcloud 14.
+**It has been solved** in [this pull-request](https://github.com/nextcloud/server/pull/8593). It works if you're using Nextcloud >= 14.0.0 !
 
 # Issue with PostgreSQL
 
@@ -14,19 +14,26 @@ there are issues when updating PhoneTrack if your Nextcloud instance uses a Post
 
 # Install instructions
 
-Put phonetrack directory in Owncloud/Nextcloud apps directory to install.
+Put phonetrack directory in Nextcloud apps directory to install.
 There are several ways to do that :
+
+### Use Nextcloud integrated app manager
+
+PhoneTrack is published in official application website. It is available in your Nextcloud admin settings.
 
 ### Clone the git repository
 
+If you want to be on the bleeding edge :
+
 ```
-cd /path/to/owncloud/apps
+cd /path/to/nextcloud/apps
 git clone https://gitlab.com/eneiluj/phonetrack-oc.git phonetrack
 ```
 
-### Download from https://marketplace.owncloud.com or https://apps.nextcloud.com
+### Download from https://apps.nextcloud.com or from the [project's wiki](https://gitlab.com/eneiluj/phonetrack-oc/wikis/home#releases-for-nextcloud)
 
-Extract phonetrack archive you just downloaded from the website :
+Extract the archive at the right place :
 ```
-cd /path/to/owncloud/apps
+cd /path/to/nextcloud/apps
 tar xvf phonetrack-x.x.x.tar.gz
+```
