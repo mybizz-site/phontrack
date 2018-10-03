@@ -30,7 +30,10 @@ cd /path/to/nextcloud/apps
 git clone https://gitlab.com/eneiluj/phonetrack-oc.git phonetrack
 ```
 
-### Download from https://apps.nextcloud.com or from the [project's wiki](https://gitlab.com/eneiluj/phonetrack-oc/wikis/home#releases-for-nextcloud)
+### Download from Nextcloud apps website or the project's wiki
+
+* https://apps.nextcloud.com 
+* [project's wiki](https://gitlab.com/eneiluj/phonetrack-oc/wikis/home#releases-for-nextcloud)
 
 Extract the archive at the right place :
 ```
