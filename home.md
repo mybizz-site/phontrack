@@ -20,7 +20,7 @@
 * [phonetrack-0.3.1.tar.gz](/uploads/dfa59ece49312f190b205a52ba4dc63a/phonetrack-0.3.1.tar.gz)
 * [phonetrack-0.3.4.tar.gz](uploads/564b129ce83b83603bb0476206f92f4b/phonetrack-0.3.4.tar.gz)
 * [phonetrack-0.3.5.tar.gz](uploads/e698bf1c2b6f6230e0fdd54b0575e1ac/phonetrack-0.3.5.tar.gz)
-* [phonetrack-0.3.6.tar.gz](uploads/ce8236e528da37d7c8c08e383bdaab56/phonetrack-0.3.6.tar.gz)
+* [phonetrack-0.3.6.tar.gz](uploads/d8392e720a5801fecafd5afdf5c041c3/phonetrack-0.3.6.tar.gz)
 
 # Donation
 
