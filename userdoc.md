@@ -88,3 +88,7 @@ This way you don't make it impossible for Alice or Bob to log as any other name 
 ## Minimum time to cut between two points
 
 # Point quota
+
+# Session auto export
+
+# Session auto purge
