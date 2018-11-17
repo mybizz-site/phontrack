@@ -67,28 +67,72 @@ This way you don't make it impossible for Alice or Bob to log as any other name 
 
 # Geofences
 
+A geofence is a square shaped zone defined for a device. When the device enters or leaves the geofence, an alert is sent.
+
+When defining a geofence, you can set :
+
+* the zone coordinates (duh)
+* choose if an email should be sent
+* choose the destination email address(es)
+* the URL to visit when the device enter or leaves the zone
+* if the URL should be queried with POST method or not (GET)
+
 # Proximity alert
+
+A proximity alert is defined with a pair of devices, a small and a big distance. The alert is triggered when the two devices get closer than the small distance or when they get farther than the big distance.
+
+For both geofences and proximity alerts, user email is used if the email address field is left empty.
+
+Emails will be sent only if Nextcloud's email settings are properly set.
 
 # Sharing
 
+There are multiple ways to share a session with PhoneTrack.
+
 ## Public session URL
+
+Each session can be set public and then can be shared with a public URL. This URL allows the viewers to see all session points but everything is read-only.
 
 ## Public filtered share
 
+You can create multiple public filtered shares for a session. First set and enable the filters, then create the public filtered share. The generated URL allows the viewers to see the session with those filters applied.
+
+For each public filtered share, additional options are available :
+
 ### last positions only
+
+If this is enabled, the public share will only show last devices positions.
 
 ### geofencify
 
+If this is enabled, all points located inside a geofence will be showed at the geofence center. It is a kind of location simplification.
+
 ### Show one device only
+
+You can restrict the public share to only display one device.
 
 # Options
 
 ## Minimum distance to cut between two points
 
+If this option is set to 1000m (for example), lines between two points which distance from each other is more than 1000m won't be displayed. The statistic table is also impacted.
+
 ## Minimum time to cut between two points
+
+Same as previous option but with a duration. Those two options are not mutually exclusive, then can both be set at the same time.
 
 # Point quota
 
+Nextcloud admin can set a point number quota for PhoneTrack users. When a user reaches this amount of points, he/she can choose what happens :
+
+* block logging : no new points can be logged
+* delete user's oldest point each time a new one is logged : this will find the oldest point logged in any user's session and delete it each time a new point is logged. This way, the quota will never be exceeded.
+* delete device's oldest point each time a new one is logged : each time a point is logged for a device, the oldest point of this device will be deleted before logging the new one. If this is the first point logged for this device, the oldest point of all existing device will be deleted.
+
 # Session auto export
 
+Users can choose to automatically export a session periodically. This action will be triggered by Nextcloud "cron tasks" at the requested frequency. Users can choose the path where automatic exports will be saved.
+
 # Session auto purge
+
+Automatic purge means periodical automatic point deletion for a session. For example, if weekly auto purge is set for a session, last complete week points will be deleted at the beginning of each new week.
