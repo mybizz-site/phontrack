@@ -64,3 +64,27 @@ Let's be clear, this URL will NOT WORK :
 because the name "Bob" is reserved.
 
 This way you don't make it impossible for Alice or Bob to log as any other name but at least you know Bob can't log as Alice and Alice can't log as Bob.
+
+# Geofences
+
+# Proximity alert
+
+# Sharing
+
+## Public session URL
+
+## Public filtered share
+
+### last positions only
+
+### geofencify
+
+### Show one device only
+
+# Options
+
+## Minimum distance to cut between two points
+
+## Minimum time to cut between two points
+
+# Point quota
