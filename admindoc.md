@@ -10,9 +10,9 @@ PhoneTrack **did** not work if it's restricted to some groups. The reason is it'
 
 As reported here :
 https://gitlab.com/eneiluj/phonetrack-oc/issues/82#note_68155878
-there are issues when updating PhoneTrack if your Nextcloud instance uses a PostgreSQL database. Solutions are given in the issue thread.
+there were issues when updating PhoneTrack if your Nextcloud instance uses a PostgreSQL database. Solutions are given in the issue thread.
 
-# Install instructions
+# Installation instructions
 
 Put phonetrack directory in Nextcloud apps directory to install.
 There are several ways to do that :
@@ -40,3 +40,7 @@ Extract the archive at the right place :
 cd /path/to/nextcloud/apps
 tar xvf phonetrack-x.x.x.tar.gz
 ```
+
+# Point number quota
+
+Nextcloud admin can set user point number quota value in Nextcloud additional settings. This quota is applied to every Nextcloud users. Users can choose what's to be done when their quota is reached in PhoneTrack user settings.
