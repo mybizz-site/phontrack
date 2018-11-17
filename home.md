@@ -2,8 +2,8 @@
 
 # PhoneTrack documentation
 
-* [User documentation](userdoc) (brief user manual)
-* [Admin documentation](admindoc) (installation instructions)
+* [User documentation](userdoc)
+* [Admin documentation](admindoc) (installation and configuration instructions)
 * [Developer documentation](devdoc) (overall app functioning, javascript interface description)
 
 # Releases (for Nextcloud)
