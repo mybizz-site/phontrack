@@ -8,6 +8,10 @@
 
 # Releases (for Nextcloud)
 
+* [phonetrack-0.4.0.tar.gz](uploads/aa2bc2061b8451285f3c3d826af1c74f/phonetrack-0.4.0.tar.gz)
+
+## Old releases
+
 * [phonetrack-0.0.1.tar.gz](/uploads/cf086aad8a07f8272eefcff04a4a17fe/phonetrack-0.0.1.tar.gz)
 * [phonetrack-0.0.3.tar.gz](/uploads/edd3d29d0022035177741e165086bf6b/phonetrack-0.0.3.tar.gz)
 * [phonetrack-0.0.5.tar.gz](/uploads/b83ba61b13e7e1458a5122a9e34332b2/phonetrack-0.0.5.tar.gz)
