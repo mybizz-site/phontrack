@@ -2,17 +2,59 @@
 
 # Logging methods
 
-Does anyone know good and free ([as in "free speech"](https://www.gnu.org/philosophy/free-sw.en.html)) app which can log position to custom URL in background ? [Create an issue](https://gitlab.com/eneiluj/phonetrack-oc/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=) if you do !
+If you know a good and free ([as in "free speech"](https://www.gnu.org/philosophy/free-sw.en.html)) app which can log position to custom URL in background, [Create an issue](https://gitlab.com/eneiluj/phonetrack-oc/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=) to let us know !
 
-* With a web browser, on the session public logging page, check "Log my position in this session" (works better on Android than on IOS...)
-* [OsmAnd gpx recording plugin](https://osmand.net/features?id=trip-recording-plugin#Online_tracking) (Android) is able to log to a custom URL with GET method. IOS version does not include recording plugin. Tested and approved.
-* [GpsLogger](http://code.mendhak.com/gpslogger/#features) (Android) Very good ! The best IMHO.  Setup in : Options -> Logging details -> Log to custom URL . Able to bufferize positions (**\***).
-* [Owntracks](http://owntracks.org/) (IOS/Android) Both version work. This app does not work without google services installed on Android. Quite funny to provide an app for those who want to keep control of their tracking information and force them to be tracked by google services...
-* [µlogger](https://f-droid.org/packages/net.fabiszewski.ulogger/) (Android) Very light. Able to bufferize positions (**\***). To use µlogger, set the corresponding logging URL provided by phonetrack-oc as the "server URL" and put **any** value (it won't be used) as username / password.
-* [Traccar](https://www.traccar.org/client/) (IOS/Android) Quite good, not very verbose. Able to bufferize positions (**\***).
-* [OpenGTS](http://opengts.org/) which is more a standard than an app. I successfully used [GpsLogger](http://code.mendhak.com/gpslogger/#features) (OpenGTS mode) and [CelltrackGTS/Free](http://www.geotelematic.com/CelltracGTS/Free.html) (a few bugs with this one).
-* [LocusMap](https://www.locusmap.eu/) which i never tried because it's proprietary and accessible just in amazon and google stores...
-* [PhoneTrack-Android](https://gitlab.com/eneiluj/phonetrack-android) : Am i objective to judge this one ? It is different than all the other loggers because you can log to multiple destinations with different settings. Positions are stored if there is no network. It has a very small impact on battery life. To log with this app, create a new "PhoneTrack log job". If account settings are configured, just select a session and let the magic happen. Otherwise set the log job fields manually or import any PhoneTrack logging URL. Check the [user doc](https://gitlab.com/eneiluj/phonetrack-android/wikis/userdoc) for more details.
+## Recommended
+
+### [PhoneTrack-Android](https://gitlab.com/eneiluj/phonetrack-android)
+
+(available on F-Droid)
+
+Am i objective to judge this one ? It is different than all the other loggers because you can log to multiple destinations with different settings. Positions are stored if there is no network (**\***). It has a [very small impact on battery life](https://gitlab.com/eneiluj/phonetrack-oc/issues/175#note_130338568). To log with this app, create a new "PhoneTrack log job". If account settings are configured, just select a session and let the magic happen. Otherwise set the log job fields manually or import any PhoneTrack logging URL. Check the [PhoneTrack-Android user doc](https://gitlab.com/eneiluj/phonetrack-android/wikis/userdoc) for more details.
+
+### [µlogger](https://f-droid.org/packages/net.fabiszewski.ulogger/)
+
+(Android, available on F-Droid)
+
+Very light. Able to bufferize positions (**\***). To use µlogger, set the corresponding logging URL provided by phonetrack-oc as the "server URL" and put **any** value (it won't be used) as username / password. This app is a Free Software, it's well designed, simple to use and focuses on logging.
+
+### [GpsLogger](http://code.mendhak.com/gpslogger/#features) 
+
+(Android)
+
+Setup in : Options -> Logging details -> Log to custom URL . Able to bufferize positions (**\***).
+
+### [OsmAnd gpx recording plugin](https://osmand.net/features?id=trip-recording-plugin#Online_tracking)
+
+(Android)
+
+is able to log to a custom URL with GET method. IOS version does not include recording plugin. Tested and approved.
+
+## Other ones
+
+### With a web browser
+
+On the session public logging page, check "Log my position in this session" (works better on Android than on IOS...)
+
+### [Owntracks](http://owntracks.org/)
+
+(IOS/Android)
+
+This app does not work without google services installed on Android. Quite ironic to provide an app for those who want to keep control of their tracking information but force them to be tracked by google services...
+
+### [Traccar](https://www.traccar.org/client/)
+
+(IOS/Android)
+
+Quite good, not very verbose. Able to bufferize positions (**\***).
+
+### [OpenGTS](http://opengts.org/)
+
+which is more a standard than an app. I successfully used [GpsLogger](http://code.mendhak.com/gpslogger/#features) (in OpenGTS mode) and [CelltrackGTS/Free](http://www.geotelematic.com/CelltracGTS/Free.html) (a few bugs with this one).
+
+### [LocusMap](https://www.locusmap.eu/)
+
+which i never tried because it's proprietary and accessible just in amazon and google stores...
 
 \* : When device looses connectivity, the app stores positions and sends everything when back online. 
 
