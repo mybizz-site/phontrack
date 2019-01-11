@@ -11,6 +11,8 @@ Does anyone know good and free ([as in "free speech"](https://www.gnu.org/philos
 * [µlogger](https://f-droid.org/packages/net.fabiszewski.ulogger/) (Android) Very light. Able to bufferize positions (**\***). To use µlogger, set the corresponding logging URL provided by phonetrack-oc as the "server URL" and put **any** value (it won't be used) as username / password.
 * [Traccar](https://www.traccar.org/client/) (IOS/Android) Quite good, not very verbose. Able to bufferize positions (**\***).
 * [OpenGTS](http://opengts.org/) which is more a standard than an app. I successfully used [GpsLogger](http://code.mendhak.com/gpslogger/#features) (OpenGTS mode) and [CelltrackGTS/Free](http://www.geotelematic.com/CelltracGTS/Free.html) (a few bugs with this one).
+* [LocusMap](https://www.locusmap.eu/) which i never tried because it's proprietary and accessible just in amazon and google stores...
+* [PhoneTrack-Android](https://gitlab.com/eneiluj/phonetrack-android) : Am i objective to judge this one ? It is different than all the other loggers because you can log to multiple destinations with different settings. Positions are stored if there is no network. It has a very small impact on battery life. To log with this app, create a new "PhoneTrack log job". If account settings are configured, just select a session and let the magic happen. Otherwise set the log job fields manually or import any PhoneTrack logging URL. Check the [user doc](https://gitlab.com/eneiluj/phonetrack-android/wikis/userdoc) for more details.
 
 \* : When device looses connectivity, the app stores positions and sends everything when back online. 
 
