@@ -4,9 +4,9 @@
 
 If you know a good and free ([as in "free speech"](https://www.gnu.org/philosophy/free-sw.en.html)) app which can log position to custom URL in background, [Create an issue](https://gitlab.com/eneiluj/phonetrack-oc/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=) to let us know !
 
-Warning : part of what follows is extremely subjective.
+**Warning** : part of what follows is extremely subjective or ironic :grin:.
 
-## Recommended
+## Recommended :+1: 
 
 ### [PhoneTrack-Android](https://gitlab.com/eneiluj/phonetrack-android)
 
@@ -86,7 +86,7 @@ Cons :
 * big impact on battery life
 * a little bit tricky to find out how to configure it to log
 
-## Almost ok
+## Almost ok :grimacing: 
 
 Anyone thinks of a better name for this category ? I offer a reward :wink:.
 
@@ -103,7 +103,7 @@ This method is only recommended if you're using Firefox or any Free Software bro
 
 Quite good, not very verbose. Able to bufferize positions (**\***). It is designed to log to Traccar server which does not make it natural to configure for PhoneTrack.
 
-## Others
+## Others :unamused: 
 
 This category is for those who don't want to participate to "make the world a better place" (M.Jackson :man\_dancing: ), those who suffer from strong pragmatism and those who developed a [Stockholm syndrome](https://en.wikipedia.org/wiki/Stockholm_syndrome) with google and co.
 
