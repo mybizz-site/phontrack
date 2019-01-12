@@ -124,6 +124,8 @@ which is more a standard than an app. I successfully used [GpsLogger](http://cod
 
 ### [LocusMap](https://www.locusmap.eu/)
 
+(Android)
+
 which i never tried because it's proprietary and accessible just in amazon and google stores...
 
 \* : When device looses connectivity, the app stores positions and sends everything when back online. 
