@@ -86,7 +86,7 @@ Cons :
 * big impact on battery life
 * a little bit tricky to find out how to configure it to log
 
-## Almost ok :grimacing: 
+## Almost ok :neutral\_face: 
 
 Anyone thinks of a better name for this category ? I offer a reward :wink:.
 
@@ -103,7 +103,7 @@ This method is only recommended if you're using Firefox or any Free Software bro
 
 Quite good, not very verbose. Able to bufferize positions (**\***). It is designed to log to Traccar server which does not make it natural to configure for PhoneTrack.
 
-## Others :unamused: 
+## Others :grimacing: 
 
 This category is for those who don't want to participate to "make the world a better place" (M.Jackson :man\_dancing: ), those who suffer from strong pragmatism and those who developed a [Stockholm syndrome](https://en.wikipedia.org/wiki/Stockholm_syndrome) with google and co.
 
