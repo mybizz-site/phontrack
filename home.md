@@ -9,18 +9,10 @@
 # Releases (for Nextcloud)
 
 * [phonetrack-0.4.0.tar.gz](uploads/aa2bc2061b8451285f3c3d826af1c74f/phonetrack-0.4.0.tar.gz)
+* [phonetrack-0.4.1.tar.gz](uploads/32a212f0de69a1fd5b8e69ddc119e992/phonetrack-0.4.1.tar.gz)
 
 ## Old releases
 
-* [phonetrack-0.0.1.tar.gz](/uploads/cf086aad8a07f8272eefcff04a4a17fe/phonetrack-0.0.1.tar.gz)
-* [phonetrack-0.0.3.tar.gz](/uploads/edd3d29d0022035177741e165086bf6b/phonetrack-0.0.3.tar.gz)
-* [phonetrack-0.0.5.tar.gz](/uploads/b83ba61b13e7e1458a5122a9e34332b2/phonetrack-0.0.5.tar.gz)
-* [phonetrack-0.0.8.tar.gz](/uploads/4cb8a98cad861abdc6f89c37a3c53d97/phonetrack-0.0.8.tar.gz)
-* [phonetrack-0.1.1.tar.gz](/uploads/ffe9da8bba7b2422d3b8a28c65bcc6ca/phonetrack-0.1.1.tar.gz)
-* [phonetrack-0.2.0.tar.gz](/uploads/4dabe74affe489d3f201d2d0a7dc7528/phonetrack-0.2.0.tar.gz)
-* [phonetrack-0.2.2.tar.gz](/uploads/5b075116842a5beb61049224a77cbedc/phonetrack-0.2.2.tar.gz)
-* [phonetrack-0.2.7.tar.gz](/uploads/0cddaf90807814bb1a3b19f933d4f830/phonetrack-0.2.7.tar.gz)
-* [phonetrack-0.2.8.tar.gz](/uploads/4fc2fed9b8452dd29fa9b5bd045e06e8/phonetrack-0.2.8.tar.gz)
 * [phonetrack-0.3.1.tar.gz](/uploads/dfa59ece49312f190b205a52ba4dc63a/phonetrack-0.3.1.tar.gz)
 * [phonetrack-0.3.4.tar.gz](uploads/564b129ce83b83603bb0476206f92f4b/phonetrack-0.3.4.tar.gz)
 * [phonetrack-0.3.5.tar.gz](uploads/e698bf1c2b6f6230e0fdd54b0575e1ac/phonetrack-0.3.5.tar.gz)
