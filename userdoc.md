@@ -205,6 +205,10 @@ Emails will be sent only if Nextcloud's email settings are properly set.
 
 There are multiple ways to share a session with PhoneTrack.
 
+## With other Nextcloud users
+
+Just add users you want to share the session with in the session's "share" options. They will have read-only access to the session.
+
 ## Public session URL
 
 Each session can be set public and then can be shared with a public URL. This URL allows the viewers to see all session points but everything is read-only.
