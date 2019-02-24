@@ -128,7 +128,17 @@ which is more a standard than an app. I successfully used [GpsLogger](http://cod
 
 which i never tried because it's proprietary and accessible just in amazon and google stores...
 
-\* : When device looses connectivity, the app stores positions and sends everything when back online. 
+\* : When device looses connectivity, the app stores positions and sends everything when back online.
+
+## Untested :neutral\_face:
+
+### Location reporter for Raspberry Pi
+
+Here is the project page: https://gitlab.com/larsfp/locationreporter
+
+Here is a detailed article about it: https://0p.no/2018/05/25/car_logger_part_3.html
+
+Feel free to create an issue if you used it and want to share your impressions.
 
 # Logging apps comparison by @slaver
 
