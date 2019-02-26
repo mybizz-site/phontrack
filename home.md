@@ -32,10 +32,10 @@ I develop this app during my free time.
 # Screenshots
 
 ## Two devices displayed
-![ph1](/uploads/17ba0aa1f01eb5f09010fb87048d0a6a/ph1.jpeg)
+![p1](uploads/ab2ffce1e08b08466e83e3f0000984f6/p1.png)
 
 ## Editing a point
-![ph2](/uploads/55c1a459b1155cf75aba1252388c085a/ph2.jpeg)
+![p2](uploads/a7ebb0a8e835440581c38ea9bee140a2/p2.png)
 
 ## Public page displaying other devices and tracking browser's device
-![ph3](/uploads/2c88199e6ce40fcaafbb7c112f9e42f9/ph3.jpeg)
+![p3](uploads/d7c06f1269cc376462d60f324e50d698/p3.png)
