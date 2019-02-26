@@ -31,11 +31,11 @@ I develop this app during my free time.
 
 # Screenshots
 
-## Two devices displayed
+## Want to share your bike trip in live?
 ![p1](uploads/ab2ffce1e08b08466e83e3f0000984f6/p1.png)
 
-## Editing a point
+## Want to supervise a treasure hunt in the woods?
 ![p2](uploads/a7ebb0a8e835440581c38ea9bee140a2/p2.png)
 
-## Public page displaying other devices and tracking browser's device
+## Want to keep track of your moves?
 ![p3](uploads/d7c06f1269cc376462d60f324e50d698/p3.png)
