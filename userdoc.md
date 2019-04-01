@@ -164,7 +164,7 @@ By default, there is no restriction and everyone who has the session's logging U
 
 ## How do i do it ?
 
-To actually reserve a name : type the name in the reservation input field and type "ENTER". It will show you a "name token" associated with the reserved name you just chose. Using this "name token" as device name in a logging URL (or in PhoneTrack-Android log job's name field) is now the ONLY way to log under the reserved name with logging URLs. This means anyone trying to use the reserved name directly in the logging URL will see his logging attempts refused.
+To actually reserve a name : type the name in the reservation input field and type "ENTER". It will show you a "name token" associated with the reserved name you just chose. Using this "name token" as device name in a logging URL (or in PhoneTrack-Android log job's device name field) is now the ONLY way to log under the reserved name with logging URLs. This means anyone trying to use the reserved name directly in the logging URL will see his logging attempts refused.
 
 ## Example
 
