@@ -36,10 +36,10 @@ I develop this app during my free time.
 # Screenshots
 
 ## Want to share your bike trip in live?
-![p1](uploads/ab2ffce1e08b08466e83e3f0000984f6/p1.png)
+![p1](uploads/745bc0a7e6ba21b65703e383709c3d97/p1.jpg)
 
 ## Want to supervise a treasure hunt in the woods?
-![p2](uploads/a7ebb0a8e835440581c38ea9bee140a2/p2.png)
+![p2](uploads/24b55acc14b6785f2380dcf5e84648d8/p2.jpg)
 
 ## Want to keep track of your moves?
-![p3](uploads/d7c06f1269cc376462d60f324e50d698/p3.png)
+![p3](uploads/47ac89131d8fc434c53ba6baac2beb74/p3.jpg)
