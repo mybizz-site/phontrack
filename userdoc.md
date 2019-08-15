@@ -100,16 +100,16 @@ and with GET:
 
 The POST or GET parameters are:
 
-* lat
-* lon
-* alt
-* timestamp
-* acc
-* bat
-* sat
-* useragent
-* speed
-* bearing
+* lat (decimal latitude)
+* lon (decimal longitude)
+* alt (altitude in meters)
+* timestamp (epoch timestamp in seconds)
+* acc (accuracy in meters)
+* bat (battery level in percent)
+* sat (number of satellites)
+* useragent (device user agent)
+* speed (speed in meter per second)
+* bearing (bearing in decimal degrees)
 
 ## Almost ok :neutral\_face: 
 
