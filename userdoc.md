@@ -86,6 +86,31 @@ Cons :
 * big impact on battery life
 * a little bit tricky to find out how to configure it to log
 
+### HTTP request
+
+You can build your own logging system and make GET or POST HTTP requests to PhoneTrack.
+
+Here is an example of logging URL with POST:
+
+`https://your.server.org/NC_PATH_IF_NECESSARY/index.php/apps/phonetrack/logPost/TOKEN/DEVNAME`
+
+and with GET:
+
+`https://your.server.org/NC_PATH_IF_NECESSARY/index.php/apps/phonetrack/logGet/TOKEN/DEVNAME`
+
+The POST or GET parameters are:
+
+* lat
+* lon
+* alt
+* timestamp
+* acc
+* bat
+* sat
+* useragent
+* speed
+* bearing
+
 ## Almost ok :neutral\_face: 
 
 Anyone thinks of a better name for this category ? I offer a reward :wink:.
