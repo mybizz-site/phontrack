@@ -165,7 +165,7 @@ Here is a detailed article about it: https://0p.no/2018/05/25/car_logger_part_3.
 
 Feel free to create an issue if you used it and want to share your impressions.
 
-# Phone logging apps comparison table
+# Phone logging apps comparison table :bar_chart:
 
 Android clients:
 
