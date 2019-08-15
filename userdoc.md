@@ -165,6 +165,27 @@ Here is a detailed article about it: https://0p.no/2018/05/25/car_logger_part_3.
 
 Feel free to create an issue if you used it and want to share your impressions.
 
+# Phone logging apps comparison table
+
+Android clients:
+
+| **Client** | license | Google Play dependency | battery life impact | offline buffering | multiple simultaneous settings | time/distance limit | sending to evil server by default | simple to configure to log to Nextcloud PhoneTrack | extra features
+| ---- | --- | ---- | --- | - | - | - | - | - | - |
+|PhoneTrack-Android | GPLv3 :heavy_check_mark:  | no :heavy_check_mark:  | little :heavy_check_mark:  | yes :heavy_check_mark: | yes :heavy_check_mark: | yes :heavy_check_mark: | no :heavy_check_mark: | yeah! :heavy_check_mark:  | motion detection, SMS remote control :heavy_check_mark:  |
+|OsmAnd | GPLv3 :heavy_check_mark:  | no :heavy_check_mark:  | big :x:  | yes :heavy_check_mark: | no :x: | yes :heavy_check_mark: | no :heavy_check_mark: | yes :heavy_check_mark:  | :x: |
+|µLogger |  GPLv3 :heavy_check_mark:  | no :heavy_check_mark:  | little :heavy_check_mark: | yes :heavy_check_mark: | no :x: | yes :heavy_check_mark: | no :heavy_check_mark: | yes :heavy_check_mark:  | :x: |
+|GpsLogger | GPLv2 :heavy_check_mark:  | no :heavy_check_mark:  | little :heavy_check_mark: | yes :heavy_check_mark: | no :x: | yes :heavy_check_mark: | no :heavy_check_mark: | no :x: | motion detection :heavy_check_mark: |
+|Traccar | Apachev2 :heavy_check_mark:  | no :heavy_check_mark:  | little :heavy_check_mark: | yes :heavy_check_mark: | no :x: | yes :heavy_check_mark: | no :heavy_check_mark: | yes :heavy_check_mark:  | :x: |
+|OwnTracks | Eclipsev1 :heavy_check_mark:  | yes :x: | dunnow | yes :heavy_check_mark: | no :x: | dunnow | no :heavy_check_mark: | nope :x: | :x: |
+|LocusMaps | proprietary :x: | yes :x: | dunnow | dunnow | no :x: | dunnow | no :heavy_check_mark: | nope :x: | :x: |
+
+iOS clients:
+
+| **Client** | license | battery life impact | offline buffering | multiple simultaneous settings | time/distance limit | sending to evil server by default | simple to configure to log to Nextcloud PhoneTrack | extra features
+| ---- | --- | --- | - | - | - | - | - | - |
+|Traccar | Apachev2 :heavy_check_mark: | dunnow | yes :heavy_check_mark: | no :x: | yes :heavy_check_mark: | no :heavy_check_mark: | yes :heavy_check_mark:  | :x: |
+|OwnTracks | MIT :heavy_check_mark:  | dunnow | yes :heavy_check_mark: | no :x: | dunnow | no :heavy_check_mark: | nope :x: | :x: |
+
 # Logging apps comparison by @slaver
 
 * Android 7.1 (stock samsung firmware):
