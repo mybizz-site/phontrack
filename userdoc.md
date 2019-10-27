@@ -86,6 +86,14 @@ Cons :
 * big impact on battery life
 * a little bit tricky to find out how to configure it to log
 
+### Overland IOS
+
+This AFAIK the only FOSS and free tracker app on IOS that actually works.
+
+I just made a few tests to make the compatibility part but didn't use it enough to give pros and cons.
+
+More information on https://overland.p3k.app/
+
 ### HTTP request
 
 You can build your own logging system and make GET or POST HTTP requests to PhoneTrack.
@@ -185,6 +193,7 @@ iOS clients:
 | ---- | --- | --- | - | - | - | - | - | - |
 |Traccar | Apachev2 :heavy_check_mark: | dunnow | yes :heavy_check_mark: | no :x: | yes :heavy_check_mark: | no :heavy_check_mark: | yes :heavy_check_mark:  | :x: |
 |OwnTracks | MIT :heavy_check_mark:  | dunnow | yes :heavy_check_mark: | no :x: | dunnow | no :heavy_check_mark: | nope :x: | :x: |
+|Overland | Apachev2 :heavy_check_mark:  | dunnow | yes :heavy_check_mark: | no :x: | yes :heavy_check_mark:  | no :heavy_check_mark: | yes :heavy_check_mark: | significant motion (didn't try it) |
 
 # Logging apps comparison by @slaver
 
