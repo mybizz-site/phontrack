@@ -27,6 +27,7 @@
 * [phonetrack-0.6.3.tar.gz](uploads/74843022bbb388273538c1e69b726765/phonetrack-0.6.3.tar.gz)
 * [phonetrack-0.6.4.tar.gz](uploads/de293ffddde495a4ff82ef756dd8bac2/phonetrack-0.6.4.tar.gz)
 * [phonetrack-0.6.5.tar.gz](uploads/4ef4dfab686d1b887959536fe672eda1/phonetrack-0.6.5.tar.gz)
+* [phonetrack-0.6.6.tar.gz](uploads/c11f2932daec105971ec5567e81d83fb/phonetrack-0.6.6.tar.gz)
 
 ## Old releases
 
